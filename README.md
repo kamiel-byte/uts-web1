@@ -1,7 +1,3 @@
-# uts-web1
-UTS Pemrograman WEB1
-Nama : AYU KAMILLAH
-NIM : 230401020015
 <html lang="en">
     <!-- Nama   : Ayu Kamillah
         NIM : 230401020015
