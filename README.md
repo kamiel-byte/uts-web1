@@ -8,7 +8,7 @@ NIM : 230401020015
         Kelas   : IT201
         Mata Kuliah : Pemrograman Web 1 -->
     <head>
-        <title> UTA AYU KAMILLAH </title>
+        <title> UTS AYU KAMILLAH </title>
         <!-- menghubungkan dengan css external -->
         <link rel="stylesheet" href="styles.css">
     </head>
