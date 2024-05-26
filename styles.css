@@ -1,0 +1,33 @@
+body{
+    background-color: burlywood;
+}
+h1{
+color: orange;
+text-align: center;
+background-color: grey;
+}
+p{
+font-family :'Times New Roman', Times, serif;
+}
+table.Biodata{ background-color: burlywood;
+    width: 600px;
+    border-collapse: collapse;
+    border-top: 1px;
+}
+table.Pendidikan{ background-color: burlywood;
+    width: 300px;
+    border-collapse: collapse;
+}
+th.Pendidikan, td.Pendidikan{
+    padding: 7px 7px;
+}
+th.Pendidikan{
+    border-top: 1px solid darkorange;
+    border-bottom: 2px solid black;
+    text-align: Left;
+    font-size : 80%;
+}
+
+tr.Pendidikan:hover{
+    background-color: greenyellow;
+}
